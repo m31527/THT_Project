@@ -1,0 +1,58 @@
+2011/8/7 上午 05:43:58 org.apache.catalina.core.ApplicationContext log
+資訊: ContextListener: contextInitialized()
+2011/8/7 上午 05:43:58 org.apache.catalina.core.ApplicationContext log
+資訊: SessionListener: contextInitialized()
+2011/8/7 上午 08:41:53 org.apache.catalina.core.ApplicationContext log
+資訊: SessionListener: contextDestroyed()
+2011/8/7 上午 08:41:53 org.apache.catalina.core.ApplicationContext log
+資訊: ContextListener: contextDestroyed()
+2011/8/7 上午 10:17:35 org.apache.catalina.core.ApplicationContext log
+資訊: ContextListener: contextInitialized()
+2011/8/7 上午 10:17:35 org.apache.catalina.core.ApplicationContext log
+資訊: SessionListener: contextInitialized()
+2011/8/7 上午 10:17:37 org.apache.catalina.core.ApplicationContext log
+資訊: ContextListener: contextInitialized()
+2011/8/7 上午 10:17:37 org.apache.catalina.core.ApplicationContext log
+資訊: SessionListener: contextInitialized()
+2011/8/7 上午 10:17:38 org.apache.catalina.core.ApplicationContext log
+資訊: SessionListener: contextDestroyed()
+2011/8/7 上午 10:17:38 org.apache.catalina.core.ApplicationContext log
+資訊: ContextListener: contextDestroyed()
+2011/8/7 上午 11:37:58 org.apache.catalina.core.StandardWrapperValve invoke
+嚴重的: Servlet.service() for servlet jsp threw exception
+org.apache.jasper.JasperException: /people/create.jsp(43,1) File "/people/header.jsp" not found
+	at org.apache.jasper.compiler.DefaultErrorHandler.jspError(DefaultErrorHandler.java:40)
+	at org.apache.jasper.compiler.ErrorDispatcher.dispatch(ErrorDispatcher.java:407)
+	at org.apache.jasper.compiler.ErrorDispatcher.jspError(ErrorDispatcher.java:88)
+	at org.apache.jasper.compiler.Parser.processIncludeDirective(Parser.java:300)
+	at org.apache.jasper.compiler.Parser.parseIncludeDirective(Parser.java:333)
+	at org.apache.jasper.compiler.Parser.parseDirective(Parser.java:442)
+	at org.apache.jasper.compiler.Parser.parseFileDirectives(Parser.java:1749)
+	at org.apache.jasper.compiler.Parser.parse(Parser.java:127)
+	at org.apache.jasper.compiler.ParserController.doParse(ParserController.java:255)
+	at org.apache.jasper.compiler.ParserController.parseDirectives(ParserController.java:120)
+	at org.apache.jasper.compiler.Compiler.generateJava(Compiler.java:180)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:347)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:327)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:314)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:592)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:326)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:298)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:588)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:680)
+2011/8/7 上午 11:39:15 org.apache.catalina.core.ApplicationContext log
+資訊: SessionListener: contextDestroyed()
+2011/8/7 上午 11:39:15 org.apache.catalina.core.ApplicationContext log
+資訊: ContextListener: contextDestroyed()

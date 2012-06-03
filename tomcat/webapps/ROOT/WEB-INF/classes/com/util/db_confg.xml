@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<db_config>
+	<jdbcDriver>com.inet.tds.TdsDriver</jdbcDriver>
+	<dbtype>mysql</dbtype>
+	<dbname>tht</dbname>
+	<url>127.0.0.1</url>
+	<id>root</id>
+	<password>root</password>
+</db_config>

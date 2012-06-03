@@ -1,0 +1,198 @@
+三月 24, 2012 4:02:43 下午 org.apache.catalina.core.AprLifecycleListener init
+資訊: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_01\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;.
+三月 24, 2012 4:02:44 下午 org.apache.coyote.http11.Http11Protocol init
+資訊: Initializing Coyote HTTP/1.1 on http-8080
+三月 24, 2012 4:02:44 下午 org.apache.catalina.startup.Catalina load
+資訊: Initialization processed in 1709 ms
+三月 24, 2012 4:02:44 下午 org.apache.catalina.core.StandardService start
+資訊: Starting service Catalina
+三月 24, 2012 4:02:44 下午 org.apache.catalina.core.StandardEngine start
+資訊: Starting Servlet Engine: Apache Tomcat/6.0.32
+三月 24, 2012 4:02:44 下午 org.apache.catalina.startup.HostConfig deployDescriptor
+資訊: Deploying configuration descriptor host-manager.xml
+三月 24, 2012 4:02:45 下午 org.apache.catalina.startup.HostConfig deployDescriptor
+資訊: Deploying configuration descriptor manager.xml
+三月 24, 2012 4:02:45 下午 org.apache.catalina.startup.HostConfig deployDirectory
+資訊: Deploying web application directory docs
+三月 24, 2012 4:02:45 下午 org.apache.catalina.startup.HostConfig deployDirectory
+資訊: Deploying web application directory examples
+三月 24, 2012 4:02:45 下午 org.apache.catalina.startup.HostConfig deployDirectory
+資訊: Deploying web application directory ROOT
+三月 24, 2012 4:02:45 下午 org.apache.coyote.http11.Http11Protocol start
+資訊: Starting Coyote HTTP/1.1 on http-8080
+三月 24, 2012 4:02:45 下午 org.apache.jk.common.ChannelSocket init
+資訊: JK: ajp13 listening on /0.0.0.0:8009
+三月 24, 2012 4:02:45 下午 org.apache.jk.server.JkMain start
+資訊: Jk running ID=0 time=0/31  config=null
+三月 24, 2012 4:02:45 下午 org.apache.catalina.startup.Catalina start
+資訊: Server startup in 1158 ms
+三月 24, 2012 4:19:36 下午 org.apache.coyote.http11.Http11Protocol pause
+資訊: Pausing Coyote HTTP/1.1 on http-8080
+三月 24, 2012 4:19:40 下午 org.apache.catalina.core.AprLifecycleListener init
+資訊: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_01\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;.
+三月 24, 2012 4:19:41 下午 org.apache.coyote.http11.Http11Protocol init
+資訊: Initializing Coyote HTTP/1.1 on http-8080
+三月 24, 2012 4:19:41 下午 org.apache.catalina.startup.Catalina load
+資訊: Initialization processed in 478 ms
+三月 24, 2012 4:19:41 下午 org.apache.catalina.core.StandardService start
+資訊: Starting service Catalina
+三月 24, 2012 4:19:41 下午 org.apache.catalina.core.StandardEngine start
+資訊: Starting Servlet Engine: Apache Tomcat/6.0.32
+三月 24, 2012 4:19:41 下午 org.apache.catalina.startup.HostConfig deployDescriptor
+資訊: Deploying configuration descriptor host-manager.xml
+三月 24, 2012 4:19:41 下午 org.apache.catalina.startup.HostConfig deployDescriptor
+資訊: Deploying configuration descriptor manager.xml
+三月 24, 2012 4:19:41 下午 org.apache.catalina.startup.HostConfig deployDirectory
+資訊: Deploying web application directory docs
+三月 24, 2012 4:19:41 下午 org.apache.catalina.startup.HostConfig deployDirectory
+資訊: Deploying web application directory examples
+三月 24, 2012 4:19:41 下午 org.apache.catalina.startup.HostConfig deployDirectory
+資訊: Deploying web application directory ROOT
+三月 24, 2012 4:19:41 下午 org.apache.coyote.http11.Http11Protocol start
+資訊: Starting Coyote HTTP/1.1 on http-8080
+三月 24, 2012 4:19:41 下午 org.apache.jk.common.ChannelSocket init
+資訊: JK: ajp13 listening on /0.0.0.0:8009
+三月 24, 2012 4:19:41 下午 org.apache.jk.server.JkMain start
+資訊: Jk running ID=0 time=0/31  config=null
+三月 24, 2012 4:19:41 下午 org.apache.catalina.startup.Catalina start
+資訊: Server startup in 662 ms
+三月 24, 2012 4:33:42 下午 org.apache.catalina.core.AprLifecycleListener init
+資訊: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_01\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;.
+三月 24, 2012 4:33:42 下午 org.apache.coyote.http11.Http11Protocol init
+資訊: Initializing Coyote HTTP/1.1 on http-8080
+三月 24, 2012 4:33:42 下午 org.apache.catalina.startup.Catalina load
+資訊: Initialization processed in 472 ms
+三月 24, 2012 4:33:42 下午 org.apache.catalina.core.StandardService start
+資訊: Starting service Catalina
+三月 24, 2012 4:33:42 下午 org.apache.catalina.core.StandardEngine start
+資訊: Starting Servlet Engine: Apache Tomcat/6.0.32
+三月 24, 2012 4:33:42 下午 org.apache.catalina.startup.HostConfig deployDescriptor
+資訊: Deploying configuration descriptor host-manager.xml
+三月 24, 2012 4:33:43 下午 org.apache.catalina.startup.HostConfig deployDescriptor
+資訊: Deploying configuration descriptor manager.xml
+三月 24, 2012 4:33:43 下午 org.apache.catalina.startup.HostConfig deployDirectory
+資訊: Deploying web application directory docs
+三月 24, 2012 4:33:43 下午 org.apache.catalina.startup.HostConfig deployDirectory
+資訊: Deploying web application directory examples
+三月 24, 2012 4:33:43 下午 org.apache.catalina.startup.HostConfig deployDirectory
+資訊: Deploying web application directory ROOT
+三月 24, 2012 4:33:43 下午 org.apache.coyote.http11.Http11Protocol start
+資訊: Starting Coyote HTTP/1.1 on http-8080
+三月 24, 2012 4:33:43 下午 org.apache.jk.common.ChannelSocket init
+資訊: JK: ajp13 listening on /0.0.0.0:8009
+三月 24, 2012 4:33:43 下午 org.apache.jk.server.JkMain start
+資訊: Jk running ID=0 time=0/17  config=null
+三月 24, 2012 4:33:43 下午 org.apache.catalina.startup.Catalina start
+資訊: Server startup in 555 ms
+三月 24, 2012 4:37:58 下午 org.apache.catalina.core.AprLifecycleListener init
+資訊: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_01\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;.
+三月 24, 2012 4:37:58 下午 org.apache.coyote.http11.Http11Protocol init
+資訊: Initializing Coyote HTTP/1.1 on http-8080
+三月 24, 2012 4:37:58 下午 org.apache.catalina.startup.Catalina load
+資訊: Initialization processed in 471 ms
+三月 24, 2012 4:37:58 下午 org.apache.catalina.core.StandardService start
+資訊: Starting service Catalina
+三月 24, 2012 4:37:58 下午 org.apache.catalina.core.StandardEngine start
+資訊: Starting Servlet Engine: Apache Tomcat/6.0.32
+三月 24, 2012 4:37:58 下午 org.apache.catalina.startup.HostConfig deployDescriptor
+資訊: Deploying configuration descriptor host-manager.xml
+三月 24, 2012 4:37:59 下午 org.apache.catalina.startup.HostConfig deployDescriptor
+資訊: Deploying configuration descriptor manager.xml
+三月 24, 2012 4:37:59 下午 org.apache.catalina.startup.HostConfig deployDirectory
+資訊: Deploying web application directory docs
+三月 24, 2012 4:37:59 下午 org.apache.catalina.startup.HostConfig deployDirectory
+資訊: Deploying web application directory examples
+三月 24, 2012 4:37:59 下午 org.apache.catalina.startup.HostConfig deployDirectory
+資訊: Deploying web application directory ROOT
+三月 24, 2012 4:37:59 下午 org.apache.coyote.http11.Http11Protocol start
+資訊: Starting Coyote HTTP/1.1 on http-8080
+三月 24, 2012 4:37:59 下午 org.apache.jk.common.ChannelSocket init
+資訊: JK: ajp13 listening on /0.0.0.0:8009
+三月 24, 2012 4:37:59 下午 org.apache.jk.server.JkMain start
+資訊: Jk running ID=0 time=0/16  config=null
+三月 24, 2012 4:37:59 下午 org.apache.catalina.startup.Catalina start
+資訊: Server startup in 559 ms
+三月 24, 2012 4:55:33 下午 org.apache.catalina.core.AprLifecycleListener init
+資訊: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_01\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;.
+三月 24, 2012 4:55:33 下午 org.apache.coyote.http11.Http11Protocol init
+資訊: Initializing Coyote HTTP/1.1 on http-8080
+三月 24, 2012 4:55:33 下午 org.apache.catalina.startup.Catalina load
+資訊: Initialization processed in 465 ms
+三月 24, 2012 4:55:33 下午 org.apache.catalina.core.StandardService start
+資訊: Starting service Catalina
+三月 24, 2012 4:55:33 下午 org.apache.catalina.core.StandardEngine start
+資訊: Starting Servlet Engine: Apache Tomcat/6.0.32
+三月 24, 2012 4:55:33 下午 org.apache.catalina.startup.HostConfig deployDescriptor
+資訊: Deploying configuration descriptor host-manager.xml
+三月 24, 2012 4:55:33 下午 org.apache.catalina.startup.HostConfig deployDescriptor
+資訊: Deploying configuration descriptor manager.xml
+三月 24, 2012 4:55:33 下午 org.apache.catalina.startup.HostConfig deployDirectory
+資訊: Deploying web application directory docs
+三月 24, 2012 4:55:33 下午 org.apache.catalina.startup.HostConfig deployDirectory
+資訊: Deploying web application directory examples
+三月 24, 2012 4:55:33 下午 org.apache.catalina.startup.HostConfig deployDirectory
+資訊: Deploying web application directory ROOT
+三月 24, 2012 4:55:33 下午 org.apache.coyote.http11.Http11Protocol start
+資訊: Starting Coyote HTTP/1.1 on http-8080
+三月 24, 2012 4:55:33 下午 org.apache.jk.common.ChannelSocket init
+資訊: JK: ajp13 listening on /0.0.0.0:8009
+三月 24, 2012 4:55:33 下午 org.apache.jk.server.JkMain start
+資訊: Jk running ID=0 time=0/18  config=null
+三月 24, 2012 4:55:33 下午 org.apache.catalina.startup.Catalina start
+資訊: Server startup in 553 ms
+三月 24, 2012 4:59:06 下午 org.apache.catalina.core.AprLifecycleListener init
+資訊: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_01\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;.
+三月 24, 2012 4:59:06 下午 org.apache.coyote.http11.Http11Protocol init
+資訊: Initializing Coyote HTTP/1.1 on http-8080
+三月 24, 2012 4:59:06 下午 org.apache.catalina.startup.Catalina load
+資訊: Initialization processed in 471 ms
+三月 24, 2012 4:59:06 下午 org.apache.catalina.core.StandardService start
+資訊: Starting service Catalina
+三月 24, 2012 4:59:06 下午 org.apache.catalina.core.StandardEngine start
+資訊: Starting Servlet Engine: Apache Tomcat/6.0.32
+三月 24, 2012 4:59:06 下午 org.apache.catalina.startup.HostConfig deployDescriptor
+資訊: Deploying configuration descriptor host-manager.xml
+三月 24, 2012 4:59:06 下午 org.apache.catalina.startup.HostConfig deployDescriptor
+資訊: Deploying configuration descriptor manager.xml
+三月 24, 2012 4:59:06 下午 org.apache.catalina.startup.HostConfig deployDirectory
+資訊: Deploying web application directory docs
+三月 24, 2012 4:59:06 下午 org.apache.catalina.startup.HostConfig deployDirectory
+資訊: Deploying web application directory examples
+三月 24, 2012 4:59:06 下午 org.apache.catalina.startup.HostConfig deployDirectory
+資訊: Deploying web application directory ROOT
+三月 24, 2012 4:59:06 下午 org.apache.coyote.http11.Http11Protocol start
+資訊: Starting Coyote HTTP/1.1 on http-8080
+三月 24, 2012 4:59:06 下午 org.apache.jk.common.ChannelSocket init
+資訊: JK: ajp13 listening on /0.0.0.0:8009
+三月 24, 2012 4:59:06 下午 org.apache.jk.server.JkMain start
+資訊: Jk running ID=0 time=0/16  config=null
+三月 24, 2012 4:59:06 下午 org.apache.catalina.startup.Catalina start
+資訊: Server startup in 552 ms
+三月 24, 2012 5:01:25 下午 org.apache.catalina.core.AprLifecycleListener init
+資訊: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_01\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;.
+三月 24, 2012 5:01:25 下午 org.apache.coyote.http11.Http11Protocol init
+資訊: Initializing Coyote HTTP/1.1 on http-8080
+三月 24, 2012 5:01:25 下午 org.apache.catalina.startup.Catalina load
+資訊: Initialization processed in 474 ms
+三月 24, 2012 5:01:25 下午 org.apache.catalina.core.StandardService start
+資訊: Starting service Catalina
+三月 24, 2012 5:01:25 下午 org.apache.catalina.core.StandardEngine start
+資訊: Starting Servlet Engine: Apache Tomcat/6.0.32
+三月 24, 2012 5:01:25 下午 org.apache.catalina.startup.HostConfig deployDescriptor
+資訊: Deploying configuration descriptor host-manager.xml
+三月 24, 2012 5:01:25 下午 org.apache.catalina.startup.HostConfig deployDescriptor
+資訊: Deploying configuration descriptor manager.xml
+三月 24, 2012 5:01:25 下午 org.apache.catalina.startup.HostConfig deployDirectory
+資訊: Deploying web application directory docs
+三月 24, 2012 5:01:26 下午 org.apache.catalina.startup.HostConfig deployDirectory
+資訊: Deploying web application directory examples
+三月 24, 2012 5:01:26 下午 org.apache.catalina.startup.HostConfig deployDirectory
+資訊: Deploying web application directory ROOT
+三月 24, 2012 5:01:26 下午 org.apache.coyote.http11.Http11Protocol start
+資訊: Starting Coyote HTTP/1.1 on http-8080
+三月 24, 2012 5:01:26 下午 org.apache.jk.common.ChannelSocket init
+資訊: JK: ajp13 listening on /0.0.0.0:8009
+三月 24, 2012 5:01:26 下午 org.apache.jk.server.JkMain start
+資訊: Jk running ID=0 time=0/19  config=null
+三月 24, 2012 5:01:26 下午 org.apache.catalina.startup.Catalina start
+資訊: Server startup in 557 ms

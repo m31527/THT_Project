@@ -1,0 +1,34 @@
+2011/7/31 上午 09:42:02 org.apache.catalina.core.AprLifecycleListener init
+資訊: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: .:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+2011/7/31 上午 09:42:02 org.apache.coyote.http11.Http11Protocol init
+資訊: Initializing Coyote HTTP/1.1 on http-8080
+2011/7/31 上午 09:42:02 org.apache.catalina.startup.Catalina load
+資訊: Initialization processed in 1022 ms
+2011/7/31 上午 09:42:03 org.apache.catalina.core.StandardService start
+資訊: Starting service Catalina
+2011/7/31 上午 09:42:03 org.apache.catalina.core.StandardEngine start
+資訊: Starting Servlet Engine: Apache Tomcat/6.0.32
+2011/7/31 上午 09:42:03 org.apache.catalina.startup.HostConfig deployDescriptor
+資訊: Deploying configuration descriptor host-manager.xml
+2011/7/31 上午 09:42:03 org.apache.catalina.startup.HostConfig deployDescriptor
+資訊: Deploying configuration descriptor manager.xml
+2011/7/31 上午 09:42:03 org.apache.catalina.startup.HostConfig deployDirectory
+資訊: Deploying web application directory docs
+2011/7/31 上午 09:42:03 org.apache.catalina.startup.HostConfig deployDirectory
+資訊: Deploying web application directory examples
+2011/7/31 上午 09:42:03 org.apache.catalina.startup.HostConfig deployDirectory
+資訊: Deploying web application directory ROOT
+2011/7/31 上午 09:42:04 org.apache.coyote.http11.Http11Protocol start
+資訊: Starting Coyote HTTP/1.1 on http-8080
+2011/7/31 上午 09:42:04 org.apache.jk.common.ChannelSocket init
+資訊: JK: ajp13 listening on /0.0.0.0:8009
+2011/7/31 上午 09:42:04 org.apache.jk.server.JkMain start
+資訊: Jk running ID=0 time=0/27  config=null
+2011/7/31 上午 09:42:04 org.apache.catalina.startup.Catalina start
+資訊: Server startup in 1175 ms
+2011/7/31 上午 11:03:58 org.apache.coyote.http11.Http11Protocol pause
+資訊: Pausing Coyote HTTP/1.1 on http-8080
+2011/7/31 上午 11:03:59 org.apache.catalina.core.StandardService stop
+資訊: Stopping service Catalina
+2011/7/31 上午 11:04:00 org.apache.coyote.http11.Http11Protocol destroy
+資訊: Stopping Coyote HTTP/1.1 on http-8080

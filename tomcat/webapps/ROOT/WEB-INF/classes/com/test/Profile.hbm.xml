@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-mapping
+ PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+ "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+
+    <class name="com.tht.person.Profile" table="Profile">
+
+        <id name="id" unsaved-value="0">
+			<generator class="native">
+				<param name="sequence">Profile_seq</param>
+			</generator>
+		</id>
+		<property name="name"/>
+		<property name="Identity"/>
+		<property name="gender"/>
+		<property name="lunerCalendar"/>
+		<property name="solarCanlendar"/>
+		<property name="phoneNumber1"/>
+		<property name="phoneNumber2"/>
+		<property name="address1"/>
+		<property name="address2"/>
+		<property name="old"/>
+		<property name="title"/>
+		<property name="parent_id"/>
+		<property name="taisuiLight"/>
+		<property name="guangmingLight"/>
+		<property name="taisuiLight"/>
+		<property name="guangmingLight"/>
+		<property name="shihyeLight"/>
+		<property name="cyuanjiaLight"/>	
+		<property name="caishenLight"/>
+		<property name="wunchangLight"/>
+		<property name="yaoshih"/>
+		<property name="jigai"/>
+		<property name="buyun"/>
+		<property name="note"/>
+    </class>
+
+</hibernate-mapping>

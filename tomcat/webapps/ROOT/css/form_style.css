@@ -1,0 +1,192 @@
+body {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial,
+		Helvetica, sans-serif;
+	font-size: 17px;
+	margin: 0;
+    padding: 0;
+}
+
+p,h1,form,button {
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+.spacer {
+	clear: both;
+	height: 1px;
+}
+
+/* ----------- My Form ----------- */
+.myform {
+	margin: 0 auto;
+	width: 400px;
+	padding: 14px;
+}
+.searchform {
+	margin: 0 auto;
+	width: 700px;
+	padding: 14px;
+}
+
+.search_table tr{
+	font-size: 22px;
+	border:1px solid #000; 
+	margin-bottom:4px; 
+}
+
+.search_table td{
+ 	border-bottom: 1px solid #CCCCCC;
+ 	text-align: center;
+}
+/* ----------- stylized ----------- */
+#stylized {
+	border: solid 2px #b7ddf2;
+	background: #ebf4fb;
+	margin: 50px auto 0;
+}
+
+#stylized h1 {
+	font-size: 24px;
+	font-weight: bold;
+	margin-bottom: 8px;
+}
+
+#stylized p {
+	font-size: 18px;
+	color: #666666;
+	margin-bottom: 20px;
+	border-bottom: solid 1px #b7ddf2;
+	padding-bottom: 10px;
+}
+
+#stylized label {
+	display: block;
+	font-weight: bold;
+	text-align: right;
+	width: 140px;
+	float: left;
+}
+
+#stylized .small {
+	color: #666666;
+	display: block;
+	font-size: 15px;
+	font-weight: normal;
+	text-align: right;
+	width: 140px;
+}
+
+#stylized input {
+	float: left;
+	font-size: 16px;
+	padding: 4px 2px;
+	border: solid 1px #aacfe4;
+	width: 200px;
+	margin: 2px 0 20px 10px;
+}
+
+#stylized select {
+	float: left;
+	font-size: 16px;
+	padding: 4px 2px;
+	border: solid 1px #aacfe4;
+	width: 200px;
+	margin: 2px 0 20px 10px;
+}
+
+#stylized button {
+	clear: both;
+	margin-left: 150px;
+	width: 125px;
+	height: 31px;
+	background: #666666 url(img/button.png) no-repeat;
+	text-align: center;
+	line-height: 31px;
+	color: #FFFFFF;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+
+
+/* ----------- styliz_searchrs----------- */
+
+#styliz_searchrs {
+	border: solid 2px #b7ddf2;
+	background: #ebf4fb;
+	margin: 120px auto 0;
+}
+
+#styliz_searchrs h1 {
+	font-size: 24px;
+	font-weight: bold;
+	margin-bottom: 8px;
+}
+
+#styliz_searchrs p {
+	font-size: 18px;
+	color: #666666;
+	margin-bottom: 20px;
+	border-bottom: solid 1px #b7ddf2;
+	padding-bottom: 10px;
+}
+
+#styliz_searchrs label {
+	display: block;
+	font-weight: bold;
+	text-align: right;
+	width: 140px;
+	float: left;
+}
+
+#styliz_searchrs .small {
+	color: #666666;
+	display: block;
+	font-size: 15px;
+	font-weight: normal;
+	text-align: right;
+	width: 140px;
+}
+
+
+#styliz_searchrs select {
+	float: left;
+	font-size: 16px;
+	padding: 4px 2px;
+	border: solid 1px #aacfe4;
+	width: 200px;
+	margin: 2px 0 20px 10px;
+}
+
+#styliz_searchrs button {
+	clear: both;
+	width: 125px;
+	height: 31px;
+	background: #666666 url(img/button.png) no-repeat;
+	text-align: center;
+	line-height: 31px;
+	color: #FFFFFF;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.note{
+	font-size: 16px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    width: 300px;
+    color: navy;
+	}
+.form_button ul {
+                list-style: none;
+}
+     
+.form_button li {
+	            list-style: none;
+                text-align: center;
+                float: left;
+                margin: 0 10px;
+                width: 100px;
+}

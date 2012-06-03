@@ -1,0 +1,8 @@
+一月 20, 2012 8:59:03 下午 org.apache.catalina.core.ApplicationContext log
+資訊: ContextListener: contextInitialized()
+一月 20, 2012 8:59:03 下午 org.apache.catalina.core.ApplicationContext log
+資訊: SessionListener: contextInitialized()
+一月 20, 2012 8:59:50 下午 org.apache.catalina.core.ApplicationContext log
+資訊: ContextListener: contextInitialized()
+一月 20, 2012 8:59:50 下午 org.apache.catalina.core.ApplicationContext log
+資訊: SessionListener: contextInitialized()

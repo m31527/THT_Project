@@ -1,0 +1,5 @@
+1.9/1 people method complete
+2.9/5 people add/modify success (confirm modify time?)
+3.9/5 relation checking
+4.信封貼紙搞定了,不過現在系統是以相同地址才設定為戶主，家人關係也是依據同地址（之後會修正這個問題，有可能家人不同地址）
+

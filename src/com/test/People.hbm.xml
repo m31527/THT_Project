@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-mapping
+ PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+ "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+
+    <class name="com.tht.person.People" table="People">
+
+        <id name="people_id" unsaved-value="0">
+			<generator class="native">
+				<param name="sequence">People_seq</param>
+			</generator>
+		</id>
+		<property name="people_name"/>
+		<property name="people_birthday"/>
+		<property name="people_birthdayTime"/>
+		<property name="people_lunerBirthday"/>
+		<property name="people_address"/>
+		<property name="people_phone"/>
+		<property name="people_cellPhone"/>
+		<property name="people_email"/>
+		<property name="people_gender"/>
+		<property name="people_main"/>
+    </class>
+
+</hibernate-mapping>
